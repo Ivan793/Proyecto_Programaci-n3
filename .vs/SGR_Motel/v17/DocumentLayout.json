@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78532C7E-9378-4925-BFB5-D17D59B45CA9}|BLL\\BLL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78532C7E-9378-4925-BFB5-D17D59B45CA9}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\Presentacion.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\proyectoforms1\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\Presentacion.csproj|solutionrelative:proyectoforms1\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\ProyectoForms1.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\proyectoforms1\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\ProyectoForms1.csproj|solutionrelative:proyectoforms1\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\ProyectoForms1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\proyectoforms1\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\ProyectoForms1.csproj|solutionrelative:proyectoforms1\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\Presentacion.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\proyectoforms1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EDD271-E934-4791-9319-DD5D2E85C778}|ProyectoForms1\\Presentacion.csproj|solutionrelative:proyectoforms1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5A1776-FDD3-4D81-96E7-F89ECF33A998}|DALL\\DALL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\dall\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5A1776-FDD3-4D81-96E7-F89ECF33A998}|DALL\\DALL.csproj|solutionrelative:dall\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\entity\\servicioadicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|solutionrelative:entity\\servicioadicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\entity\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|solutionrelative:entity\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\entity\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|solutionrelative:entity\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|solutionrelative:entity\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\proyectoforms1\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513F5F1-CC08-42E0-8F67-A2A394A7E1AB}|Entity\\Entity.csproj|solutionrelative:entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Categorias.cs",
+              "RelativeDocumentMoniker": "ProyectoForms1\\Categorias.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Categorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoForms1\\Categorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:57:09.399Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoForms1\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Program.cs",
+              "RelativeToolTip": "ProyectoForms1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:34:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicioAdicional.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\ServicioAdicional.cs",
+              "RelativeDocumentMoniker": "Entity\\ServicioAdicional.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\ServicioAdicional.cs",
+              "RelativeToolTip": "Entity\\ServicioAdicional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\DALL\\Class1.cs",
+              "RelativeDocumentMoniker": "DALL\\Class1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\DALL\\Class1.cs",
+              "RelativeToolTip": "DALL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:01:14.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:59:56.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habitaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "ProyectoForms1\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Habitaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoForms1\\Habitaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:05:36.874Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Categorias.cs",
+              "RelativeDocumentMoniker": "ProyectoForms1\\Categorias.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\ProyectoForms1\\Categorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoForms1\\Categorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:07:58.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Reserva.cs",
+              "RelativeDocumentMoniker": "Entity\\Reserva.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Reserva.cs",
+              "RelativeToolTip": "Entity\\Reserva.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:14:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Habitacion.cs",
+              "RelativeDocumentMoniker": "Entity\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Habitacion.cs",
+              "RelativeToolTip": "Entity\\Habitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:14:49.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entity\\Empleado.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Empleado.cs",
+              "RelativeToolTip": "Entity\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entity\\Cliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\ProyectoForms1\\Entity\\Cliente.cs",
+              "RelativeToolTip": "Entity\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:00:54.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
